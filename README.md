@@ -16,5 +16,3 @@ To use this code, follow these steps:
     `cd Indee-Internship-Assignment`
 
 3. Open the `sample.html` file in a web browser.
-
-You can customize the login page according to your requirements by modifying the HTML, CSS, or JavaScript code.
